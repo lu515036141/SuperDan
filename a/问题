@@ -1,0 +1,36 @@
+问题
+
+1，请求response 带上headermmmmmmmm
+(lldb) po dic
+{
+    data =     {
+        general =         {
+            rn =             {
+                link = "http://imagefile2.51fanli.net/app/newpatch/2/480040025/index.android.bundle.ctg";
+                md5 = aca1ac7b2ef0b0be05cc3da876c721e5;
+                v = "6.7.1.1@480040025";
+            };
+            "weex_bundle" =             {
+                link = "http://research.office.51fanli.com/weex/weex_bundle_release/bu66.ctg";
+                md5 = 19c18c47a2a60592bf19fe2b2bf9ff2f;
+                patch = 0;
+                v = "6.8.4.4@480066";
+            };
+        };
+        story =         (
+                        {
+                link = "http://imagefile2.51fanli.net/app/newpatch/2/6.3.2.27_38312.zip";
+                md5 = 95bd2741849c6cf7dacb75f3d7fb2f73;
+                sid = 38312;
+            }
+        );
+    };
+    flfheaders =     {
+        "Content-Length" = 681;
+        "Content-Type" = "application/json";
+        "Proxy-Connection" = "Keep-alive";
+        "X-Charles-Map-Local" = "/Users/chendou/workdata/story45822/static/super/src/h5/js/tryonce/package.json";
+    };
+    info = "\U6210\U529f";
+    status = 1;
+}
