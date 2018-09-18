@@ -1,6 +1,6 @@
 问题
 
-1，请求response 带上headermmmmmmmm
+1，请求response 带上header
 (lldb) po dic
 {
     data =     {
